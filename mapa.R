@@ -52,5 +52,3 @@ tmap_mode("view")
 
 mapa
 
-library(widgetframe)
-htmlwidgets::saveWidget(mapa,'leaflet.html')
